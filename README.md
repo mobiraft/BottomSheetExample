@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # BottomSheetExample
 Example to showcase BottomSheet in Android using **[Kotlin](https://github.com/JetBrains/kotlin)**
 
