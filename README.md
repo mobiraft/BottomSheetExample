@@ -21,5 +21,6 @@ Example to showcase BottomSheet in Android using **[Kotlin](https://github.com/J
 Visit us for more Android and Swift articles.
 <a href="http://www.mobiraft.com/" rel="nofollow">www.mobiraft.com</a>
 
-
+##  License
+This BottomSheet Example for Android using Kotlin is available under MIT license. See [LICENSE](https://github.com/mobiraft/BottomSheetExample/blob/master/LICENSE) with the full license text.
 
