@@ -1,6 +1,6 @@
 # BottomSheetExample
 Example to showcase BottomSheet in Android using Kotlin
-
+![hi](https://mobiraft.com/wp-content/uploads/2020/06/ezgif.com-resize-2.gif)
 <h2>Blog</h2>
 <ul>
 <li><a href="https://mobiraft.com/android/android-bottomsheet-example-in-kotlin/" rel="nofollow">Android BottomSheet Example in Kotlin</a></li>
