@@ -3,7 +3,7 @@ Example to showcase BottomSheet in Android using Kotlin
 
 <h2>Blog</h2>
 <ul>
-<li><a href="http://www.mobiraft.com/" rel="nofollow">Android BottomSheet Example in Kotlin</a></li>
+<li><a href="https://mobiraft.com/android/android-bottomsheet-example-in-kotlin/" rel="nofollow">Android BottomSheet Example in Kotlin</a></li>
  
 </ul>
 
